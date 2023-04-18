@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.country-container {
+  display: flex;
+  flex-direction: column;
+  padding: 5px;
+}
+.image {
+  height: 100px;
+  width: 180px;
+  padding: 8px;
+}
+.name {
+  font-size: 23px;
+  color: black;
+  font-family: 'Roboto';
+}
